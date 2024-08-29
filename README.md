@@ -49,6 +49,9 @@ Here are some ideas to get you started:
         <td>
             <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55" />
         </td>
+        <td>
+            <img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" title="Svelte" alt="Svelte" width="55" height="55" />
+        </td>
     </tr>
 </table>
 
@@ -79,6 +82,37 @@ Here are some ideas to get you started:
         <td>
             <img src="https://img.icons8.com/color/2x/postgreesql.png" title="PostgreSQL" alt="PostgreSQL" width="55" height="55" />
         </td>
+        <td>
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" title="C++" alt="C++" width="55" height="55" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" title="Docker" alt="Docker" width="55" height="55" />
+        </td>
+        <td>
+            <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" title="Rust" alt="Rust" width="55" height="55" />
+        </td>
+        <td>
+            <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55" />
+        </td>
+        <td>
+            <img src="https://cdn.worldvectorlogo.com/logos/zorin-logomark.svg" title="Zorin" alt="Zorin" width="55" height="55" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" title="C" alt="C" width="55" height="55" />
+        </td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="55" height="55" />
+        </td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" alt="Cloudflare" width="55" height="55" />
+        </td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" width="55" height="55" />
+        </td>
     </tr>
 </table>
 
@@ -89,6 +123,9 @@ Here are some ideas to get you started:
         <td>
             <img src="https://img.icons8.com/color/2x/tensorflow.png" title="TensorFlow" alt="TensorFlow" width="55" height="55" />
         </td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="PyTorch" width="55" height="55" />
+        </td>
     </tr>
 </table>
 
@@ -98,6 +135,29 @@ Here are some ideas to get you started:
     <tr>
         <td>
             <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" title="Git" alt="Git" width="55" height="55" />
+        </td>
+        <td>
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" title="GitHub" alt="GitHub" width="55" height="55" />
+        </td>
+        <td>
+            <img src="https://techstack-generator.vercel.app/eslint-icon.svg" title="ESLint" alt="ESLint" width="55" height="55" />
+        </td>
+        <td>
+            <img src="https://techstack-generator.vercel.app/prettier-icon.svg" title="Prettier" alt="Prettier" width="55" height="55" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://techstack-generator.vercel.app/jest-icon.svg" title="Jest" alt="Jest" width="55" height="55" />
+        </td>
+        <td>
+            <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Visual Studio Code" alt="Visual Studio Code" width="55" height="55" />
+        </td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="55" height="55" />
+        </td>
+        <td>
+            <img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/external-npm-a-package-manager-for-the-javascript-programming-language-logo-regular-tal-revivo.png" alt="external-npm-a-package-manager-for-the-javascript-programming-language-logo-regular-tal-revivo" title="Node Package Manager" alt="Node Package Manager" width="55" height="55" />
         </td>
     </tr>
 </table>
