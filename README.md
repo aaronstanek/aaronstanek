@@ -159,12 +159,16 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td align="center">
+            <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Visual Studio Code" alt="Visual Studio Code" width="55" height="55" />
+            <p>VS Code</p>
+        </td>
+        <td align="center">
             <img src="https://skillicons.dev/icons?theme=dark&i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="55" height="55" />
             <p>GitHub Actions</p>
         </td>
         <td align="center">
-            <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Visual Studio Code" alt="Visual Studio Code" width="55" height="55" />
-            <p>VS Code</p>
+            <img src="https://aaronstanek.com/static-web-content/graphite-dev.svg" title="Graphite" alt="Graphite" width="55" height="55" />
+            <p>Graphite</p>
         </td>
         <td align="center">
             <img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/external-npm-a-package-manager-for-the-javascript-programming-language-logo-regular-tal-revivo.png" alt="external-npm-a-package-manager-for-the-javascript-programming-language-logo-regular-tal-revivo" title="Node Package Manager" alt="Node Package Manager" width="55" height="55" />
