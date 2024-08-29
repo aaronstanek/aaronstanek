@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
 <span>
     <style>
-        .skills-outline {
-            display: inline-block;
-            border-top: 1px solid rgb(208, 215, 222);
-            border-left: 1px solid rgb(208, 215, 222);
-        }
         .skills-holder {
             display: flex;
             flex-wrap: wrap;
@@ -32,7 +27,7 @@ Here are some ideas to get you started:
             padding: 15px;
         }
     </style>
-    <div class="skills-outline">
+    <div style="display: inline-block; border-top: 1px solid rgb(208, 215, 222); border-left: 1px solid rgb(208, 215, 222);">
         <div class="skills-holder">
             <div class="skill-icon">
                 <img src="https://techstack-generator.vercel.app/react-icon.svg" title="React" alt="React" width="55" height="55" />
