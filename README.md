@@ -56,7 +56,7 @@ Here are some ideas to get you started:
             <p>CSS</p>
         </td>
         <td align="center">
-            <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55" />
+            <img src="https://skillicons.dev/icons?theme=dark&i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55" />
             <p>Tailwind CSS</p>
         </td>
     </tr>
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
             <p>PostgreSQL</p>
         </td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="55" height="55" />
+            <img src="https://skillicons.dev/icons?theme=light&i=sqlite" title="SQLite" alt="SQLite" width="55" height="55" />
             <p>SQLite</p>
         </td>
         <td align="center">
@@ -103,19 +103,19 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td align="center">
-            <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" title="Google Cloud Platform" alt="Google Cloud Platform" width="55" height="55" />
+            <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" title="Google Cloud Platform" alt="Google Cloud Platform" width="55" height="55" />
             <p>GCP</p>
         </td>
         <td align="center">
-            <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" alt="Firebase" width="55" height="55" />
+            <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" title="Firebase" alt="Firebase" width="55" height="55" />
             <p>Firebase</p>
         </td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" alt="Cloudflare" width="55" height="55" />
+            <img src="https://skillicons.dev/icons?theme=light&i=cloudflare" title="Cloudflare" alt="Cloudflare" width="55" height="55" />
             <p>Cloudflare</p>
         </td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" width="55" height="55" />
+            <img src="https://skillicons.dev/icons?theme=light&i=vercel" title="Vercel" alt="Vercel" width="55" height="55" />
             <p>Vercel</p>
         </td>
     </tr>
@@ -125,7 +125,7 @@ Here are some ideas to get you started:
             <p>C</p>
         </td>
         <td align="center">
-            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" title="C++" alt="C++" width="55" height="55" />
+            <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++" alt="C++" width="55" height="55" />
             <p>C++</p>
         </td>
         <td align="center">
@@ -148,7 +148,7 @@ Here are some ideas to get you started:
             <p>TensorFlow</p>
         </td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="PyTorch" width="55" height="55" />
+            <img src="https://skillicons.dev/icons?theme=light&i=pytorch" title="PyTorch" alt="PyTorch" width="55" height="55" />
             <p>PyTorch</p>
         </td>
     </tr>
@@ -159,7 +159,7 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="55" height="55" />
+            <img src="https://skillicons.dev/icons?theme=dark&i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="55" height="55" />
             <p>GitHub Actions</p>
         </td>
         <td align="center">
