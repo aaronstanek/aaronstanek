@@ -34,6 +34,10 @@ Here are some ideas to get you started:
             <p>React</p>
         </td>
         <td align="center">
+            <img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" title="Svelte" alt="Svelte" width="55" height="55" />
+            <p>Svelte</p>
+        </td>
+        <td align="center">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" title="JavaScript" alt="JavaScript" width="55" height="55" />
             <p>JavaScript</p>
         </td>
@@ -41,12 +45,12 @@ Here are some ideas to get you started:
             <img src="https://techstack-generator.vercel.app/ts-icon.svg" title="TypeScript" alt="TypeScript" width="55" height="55" />
             <p>TypeScript</p>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <img src="https://img.icons8.com/color/2x/html-5.png" title="HTML" alt="html" width="55" height="55" />
             <p>HTML</p>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <img src="https://img.icons8.com/color/2x/css3.png" title="CSS" alt="css" width="55" height="55" />
             <p>CSS</p>
@@ -54,10 +58,6 @@ Here are some ideas to get you started:
         <td align="center">
             <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55" />
             <p>Tailwind CSS</p>
-        </td>
-        <td align="center">
-            <img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" title="Svelte" alt="Svelte" width="55" height="55" />
-            <p>Svelte</p>
         </td>
     </tr>
 </table>
@@ -75,19 +75,15 @@ Here are some ideas to get you started:
             <p>Python</p>
         </td>
         <td align="center">
-            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" title="REST" alt="REST" width="55" height="55" />
-            <p>REST</p>
+            <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" title="Rust" alt="Rust" width="55" height="55" />
+            <p>Rust</p>
         </td>
         <td align="center">
-            <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" title="Google Cloud Platform" alt="Google Cloud Platform" width="55" height="55" />
-            <p>GCP</p>
+            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" title="REST API" alt="REST API" width="55" height="55" />
+            <p>REST API</p>
         </td>
     </tr>
     <tr>
-        <td align="center">
-            <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" alt="Firebase" width="55" height="55" />
-            <p>Firebase</p>
-        </td>
         <td align="center">
             <img src="https://techstack-generator.vercel.app/mysql-icon.svg" title="MySQL" alt="MySQL" width="55" height="55" />
             <p>MySQL</p>
@@ -97,36 +93,22 @@ Here are some ideas to get you started:
             <p>PostgreSQL</p>
         </td>
         <td align="center">
-            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" title="C++" alt="C++" width="55" height="55" />
-            <p>C++</p>
+            <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="55" height="55" />
+            <p>SQLite</p>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <img src="https://techstack-generator.vercel.app/docker-icon.svg" title="Docker" alt="Docker" width="55" height="55" />
             <p>Docker</p>
         </td>
-        <td align="center">
-            <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" title="Rust" alt="Rust" width="55" height="55" />
-            <p>Rust</p>
-        </td>
-        <td align="center">
-            <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55" />
-            <p>Ubuntu</p>
-        </td>
-        <td align="center">
-            <img src="https://cdn.worldvectorlogo.com/logos/zorin-logomark.svg" title="Zorin" alt="Zorin" width="55" height="55" />
-            <p>Zorin</p>
-        </td>
     </tr>
     <tr>
         <td align="center">
-            <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" title="C" alt="C" width="55" height="55" />
-            <p>C</p>
+            <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" title="Google Cloud Platform" alt="Google Cloud Platform" width="55" height="55" />
+            <p>GCP</p>
         </td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="55" height="55" />
-            <p>SQLite</p>
+            <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" alt="Firebase" width="55" height="55" />
+            <p>Firebase</p>
         </td>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" alt="Cloudflare" width="55" height="55" />
@@ -135,6 +117,24 @@ Here are some ideas to get you started:
         <td align="center">
             <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" width="55" height="55" />
             <p>Vercel</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" title="C" alt="C" width="55" height="55" />
+            <p>C</p>
+        </td>
+        <td align="center">
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" title="C++" alt="C++" width="55" height="55" />
+            <p>C++</p>
+        </td>
+        <td align="center">
+            <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55" />
+            <p>Ubuntu</p>
+        </td>
+        <td align="center">
+            <img src="https://cdn.worldvectorlogo.com/logos/zorin-logomark.svg" title="Zorin" alt="Zorin" width="55" height="55" />
+            <p>Zorin</p>
         </td>
     </tr>
 </table>
@@ -159,13 +159,19 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td align="center">
-            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" title="Git" alt="Git" width="55" height="55" />
-            <p>Git</p>
+            <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="55" height="55" />
+            <p>GitHub Actions</p>
         </td>
         <td align="center">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" title="GitHub" alt="GitHub" width="55" height="55" />
-            <p>GitHub</p>
+            <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Visual Studio Code" alt="Visual Studio Code" width="55" height="55" />
+            <p>VS Code</p>
         </td>
+        <td align="center">
+            <img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/external-npm-a-package-manager-for-the-javascript-programming-language-logo-regular-tal-revivo.png" alt="external-npm-a-package-manager-for-the-javascript-programming-language-logo-regular-tal-revivo" title="Node Package Manager" alt="Node Package Manager" width="55" height="55" />
+            <p>npm</p>
+        </td>
+    <tr>
+    </tr>
         <td align="center">
             <img src="https://techstack-generator.vercel.app/eslint-icon.svg" title="ESLint" alt="ESLint" width="55" height="55" />
             <p>ESLint</p>
@@ -174,23 +180,9 @@ Here are some ideas to get you started:
             <img src="https://techstack-generator.vercel.app/prettier-icon.svg" title="Prettier" alt="Prettier" width="55" height="55" />
             <p>Prettier</p>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <img src="https://techstack-generator.vercel.app/jest-icon.svg" title="Jest" alt="Jest" width="55" height="55" />
             <p>Jest</p>
-        </td>
-        <td align="center">
-            <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Visual Studio Code" alt="Visual Studio Code" width="55" height="55" />
-            <p>VS Code</p>
-        </td>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" width="55" height="55" />
-            <p>GitHub Actions</p>
-        </td>
-        <td align="center">
-            <img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/external-npm-a-package-manager-for-the-javascript-programming-language-logo-regular-tal-revivo.png" alt="external-npm-a-package-manager-for-the-javascript-programming-language-logo-regular-tal-revivo" title="Node Package Manager" alt="Node Package Manager" width="55" height="55" />
-            <p>npm</p>
         </td>
     </tr>
 </table>
