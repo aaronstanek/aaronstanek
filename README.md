@@ -1,4 +1,14 @@
-## Hi there 👋
+I'm a full-stack software engineer with a passion for building innovative solutions with a wide range of technologies.
+
+A few highlights:
+
+-   I've built modern reactive interfaces with React and Svelte.
+-   I've written high-performance number-crunching code in C and C++.
+-   I've worked with TensorFlow and PyTorch to build some neat AI models.
+
+I'm currently searching for a new job, and I'm always excited to hear more about new opportunities.
+
+Check out [my website](https://aaronstanek.com/)!
 
 <!--
 **aaronstanek/aaronstanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
