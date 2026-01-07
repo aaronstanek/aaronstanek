@@ -8,32 +8,7 @@ A few highlights:
 -   I've written high-performance number-crunching code in C and C++.
 -   I've worked with TensorFlow and PyTorch to build some neat AI models.
 
-I'm currently searching for a new job, and I'm always excited to hear more about new opportunities.
-
 <a href="https://aaronstanek.com/contact">Click here to get in contact with me</a>.
-
-<!--
-**aaronstanek/aaronstanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- <style>
-    .skill-icon {
-        border-bottom: 1px solid rgb(208, 215, 222);
-        border-right: 1px solid rgb(208, 215, 222);
-        padding: 15px;
-    }
-</style> -->
 
 ## My Stack
 
